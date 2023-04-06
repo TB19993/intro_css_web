@@ -1,0 +1,8 @@
+body{ background-color: black;}
+article {width: fit-content ;margin-top: 80px; margin-left: 550px; margin-bottom: 100px; margin-right: 500px; padding: 10px;  border-radius: 10px;background-color:#222435;} 
+.price{margin: 5px; color: #edf2f4;
+    font-size: 30px;}
+    .discount{ margin: 5px; color: #539eb1; font-size: 25px;} 
+    img{ border-radius: 20px;margin:10px; background-color: #343c8a;} 
+    a{font-size: 20px; color: white; margin-top: 3px;margin-left: 60px; margin-bottom: 3px; margin-right: 40px;}
+    nav{padding: 10px;border-radius: 20px;background-color: rgb(65, 190, 65);}
